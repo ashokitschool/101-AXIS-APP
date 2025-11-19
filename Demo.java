@@ -9,6 +9,10 @@ class Demo{
 		System.out.println(k);
 		
 	}
+
+	public void m2(){
+		// logic
+	}
 	
 	public void doWork(){
 			// logic
