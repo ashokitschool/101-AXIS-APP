@@ -10,6 +10,10 @@ class Demo{
 		
 	}
 	
+	public void doWork(){
+			// logic
+	}
+	
 	public void m1(){
 		
 		// logic
