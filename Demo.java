@@ -7,6 +7,7 @@ class Demo{
 
 		int k = i + j;
 		System.out.println(k);
+		int a = 10;
 		
 	}
 
