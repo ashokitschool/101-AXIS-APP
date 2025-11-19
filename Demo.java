@@ -7,8 +7,11 @@ class Demo{
 
 		int k = i + j;
 		System.out.println(k);
+
 		String name = "ashokit";
-		
+
+		int a = 10;
+	
 	}
 
 	public void m2(){
