@@ -1,4 +1,6 @@
 class Demo{
+
+	String a = "hi";
 	
 	//JIRA-102 fix
 	public void test(){
