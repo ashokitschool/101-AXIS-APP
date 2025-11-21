@@ -2,6 +2,7 @@ class Demo{
 
 	String a = "hi";
 	String b = "hello";
+	String c = "bye";
 	
 	//JIRA-102 fix
 	public void test(){
@@ -24,10 +25,17 @@ class Demo{
 
 	public void m2(){
 		// logic
+		int i = 10;
+		int j = 20;
+
+		int k = i + j;
+		System.out.println(k);
 	}
 	
 	public void doWork(){
-			// logic
+		String name = "ashokit";
+
+		int a = 10;
 	}
 	
 	public void m1(){
