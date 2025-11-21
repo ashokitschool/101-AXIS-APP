@@ -1,5 +1,10 @@
 class Demo{
 	
+	//JIRA-102 fix
+	public void test(){
+		// logic
+	}
+	
 	public static void main(String[] args){
 		
 		int i = 10;
