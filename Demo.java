@@ -1,6 +1,7 @@
 class Demo{
 
 	String a = "hi";
+	String b = "hello";
 	
 	//JIRA-102 fix
 	public void test(){
